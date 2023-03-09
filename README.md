@@ -20,5 +20,7 @@
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> &nbsp; -->
 
+---
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amputators115&hide_border=true)](https://git.io/streak-stats)
           
