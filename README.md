@@ -1,6 +1,6 @@
 ## My Stack
 
-<!-- ### Data Analytics -->
+### Data Engineering
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />&nbsp;
 <img src="https://gitlab.com/uploads/-/system/project/avatar/30922508/ch-logo-white.png" width="40" height="40"/> &nbsp;
