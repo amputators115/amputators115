@@ -1,6 +1,6 @@
 ## My Stack
 
-### Data Engineering
+### Data Analytics
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />&nbsp;
 <img src="https://w7.pngwing.com/pngs/586/377/png-transparent-sql-for-dummies-database-computer-icons-sql-server-reporting-services-text-logo-sql.png" width="40" height="40"/> &nbsp;
